@@ -1,0 +1,216 @@
+.background{
+
+    -fx-background-image: url('back.png');
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center center;
+}
+
+.container{
+    -fx-background-color: black;
+    -fx-border-radius: 50px;
+    -fx-background-radius: 50px;
+    -fx-opacity: 0.7;
+
+}
+.button-28 {
+    -fx-text-fill: white;
+    -fx-font-size: 25px;
+    -fx-background-color: #302F37;
+    -fx-opacity: 1;
+}
+
+.button-28:hover {
+    -fx-background-color:#8B8B8E;
+    -fx-text-fill: white;
+}
+
+.password-field{
+    -fx-text-fill: white;
+    -fx-font-size: 25px;
+    -fx-background-color: #302F37;
+    -fx-opacity: 1;
+}
+
+.containerWhite{
+    -fx-background-color: white;
+    -fx-border-width: 0 0 0 0;
+}
+
+.contentContainer{
+    -fx-background-color: #EAE7EF;
+}
+
+.menuList{
+    -fx-background-color: rgba(0, 0, 0, 0.7);
+    -fx-border-width: 0 0 0 0;
+    -fx-border-color: transparent;
+    -fx-border-radius: 0 25 25 0;
+    -fx-background-radius: 0 25 25 0;
+}
+
+
+
+.listButtons{
+    -fx-font-size: 25px;
+    -fx-background-color: transparent;
+    -fx-text-fill: white;
+    -fx-background-radius: 10 25 25 10;
+    -fx-pref-width: 200;
+
+}
+
+.listButtons:hover,
+.activated{
+    -fx-background-color:  #EAE7EF;
+    -fx-text-fill: black;
+    -fx-border-width: 0 0 0 0;
+    -fx-background-radius: 0 25 25 0;
+}
+
+
+
+
+.card{
+    -fx-background-color: white;
+    -fx-border-width: 0 0 0 0;
+    -fx-background-radius: 20 20 20 20;
+
+    -fx-padding: 10;
+    -fx-spacing: 20;
+    -fx-margin: 20;
+    -fx-pref-height: 10;
+}
+
+.sc{
+    -fx-border-width: 0 0 0 0;
+    -fx-spacing: 10;
+    -fx-background-color: #EAE7EF;
+    -fx-padding: 10;
+}
+.tr{
+    -fx-border-width: 0 0 0 0;
+    -fx-spacing: 10;
+    -fx-background-color: white;
+    -fx-padding: 10;
+}
+
+.scroll-bar:vertical,
+.scroll-bar:horizontal{
+    -fx-opacity: 0;
+}
+
+.image{
+    -fx-background-radius: 20 20 20 20;
+    -fx-border-width: 0 0 0 0;
+}
+
+.cardLabelBottom{
+    -fx-text-fill: red;
+    -fx-font-weight: bold;
+    -fx-font-size: 15px;
+}
+
+
+.listLabelBottom{
+    -fx-text-fill: red;
+    -fx-font-weight: bold;
+    -fx-font-size: 15px;
+    -fx-padding: 5 0 5 5;
+    -fx-alignment: CENTER-RIGHT;
+}
+
+.listLabelBottom2{
+    -fx-text-fill: red;
+    -fx-font-weight: bold;
+    -fx-font-size: 15px;
+    -fx-padding: 5 0 5 5;
+    -fx-alignment: CENTER-LEFT;
+}
+.listLabelTop{
+    -fx-text-fill: Black;
+    -fx-font-style: italic;
+    -fx-font-size: 15px;
+    -fx-padding: 5 50 5 5;
+    -fx-alignment: CENTER-LEFT;}
+
+.errorButton{
+    -fx-background-color: #4CAF50; /* Yeşil arkaplan renk */
+    -fx-text-fill: white; /* Beyaz metin renk */
+    -fx-font-size: 14px; /* Yazı tipi boyutu */
+    -fx-padding: 10px 20px; /* iç kenar boşluğu */
+}
+.errorLabel{
+    -fx-text-fill: black;
+    -fx-font-size: 20;
+
+}
+
+.errorBox{
+    -fx-alignment: center;
+    -fx-spacing: 10;
+    -fx-padding: 10;
+}
+
+.genaralButton{
+    -fx-border-radius: 15;
+    -fx-background-radius: 15;
+    -fx-background-color: #E48F45;
+    -fx-text-fill: white;
+    -fx-font-size: 20;
+
+}
+.genaralButton:hover{
+    -fx-border-radius: 15;
+    -fx-background-radius: 15;
+    -fx-background-color: white;
+    -fx-text-fill: #E48F45;
+    -fx-font-size: 18;
+
+}
+
+.label-stil {
+    -fx-font-size: 15px;
+    -fx-font-family: "Arial";
+    -fx-text-fill: #333; /* Metin rengi */
+-fx-max-width: 1000;
+    -fx-padding: 10px;
+    -fx-border-radius: 5px;
+    -fx-border-color: #ccc; /* Kenarlık rengi */
+}
+
+.tableButtonEmpty{
+    -fx-background-color: rgba(237, 125, 49, 0.8);
+    -fx-text-fill: white;
+    -fx-font-size: 15;
+
+
+
+
+}
+.tableButtonEmpty:hover{
+    -fx-background-color: #ED7D31;
+    -fx-text-fill: white;
+
+}
+
+.tableButtonFull{
+    -fx-background-color: rgba(108, 95, 91, 0.8);
+    -fx-text-fill: white;
+    -fx-font-size: 15;
+
+
+
+
+}
+.tableButtonFull:hover{
+    -fx-background-color: #6C5F5B;
+    -fx-text-fill: white;
+
+}
+
+.pos{
+    -fx-text-fill: #ED7D31;
+    -fx-font-size: 30;
+    -fx-font-style: italic;
+}

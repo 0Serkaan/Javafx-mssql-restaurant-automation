@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="720.0" prefWidth="1080.0" stylesheets="@styles.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.food.CashierController">
+   <children>
+      <ScrollPane layoutX="32.0" layoutY="35.0" prefHeight="562.0" prefWidth="318.0" styleClass="sc" stylesheets="@styles.css">
+         <content>
+            <VBox fx:id="billList" prefHeight="200.0" prefWidth="318.0" />
+         </content>
+      </ScrollPane>
+      <ScrollPane layoutX="364.0" layoutY="35.0" prefHeight="562.0" prefWidth="614.0" styleClass="sc" stylesheets="@styles.css">
+         <content>
+            <VBox fx:id="orderList" prefHeight="200.0" prefWidth="613.0" />
+         </content>
+      </ScrollPane>
+      <Button layoutX="814.0" layoutY="631.0" mnemonicParsing="false" onAction="#takePayment" prefHeight="43.0" prefWidth="171.0" styleClass="genaralButton" stylesheets="@styles.css" text="Ödeme Al" />
+      <ChoiceBox fx:id="choiceBox" layoutX="624.0" layoutY="631.0" prefHeight="39.0" prefWidth="150.0" styleClass="genaralButton" stylesheets="@styles.css" />
+      <Label fx:id="priceLabel" layoutX="404.0" layoutY="640.0" prefHeight="17.0" prefWidth="196.0" text="FİYAT" />
+      <Button layoutX="32.0" layoutY="629.0" mnemonicParsing="false" onAction="#oldOrders" prefHeight="39.0" prefWidth="318.0" styleClass="genaralButton" stylesheets="@styles.css" text="Geçmiş Siparişler" />
+      <Button layoutX="995.0" layoutY="35.0" mnemonicParsing="false" onAction="#goBack" prefHeight="25.0" prefWidth="71.0" styleClass="genaralButton" stylesheets="@styles.css" text="GERİ" />
+   </children>
+</Pane>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ProgressBar?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane fx:id="root" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="720.0" prefWidth="1080.0" styleClass="background" stylesheets="@styles.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.food.SplashController">
+   <children>
+      <ImageView fitHeight="643.0" fitWidth="810.0" layoutX="219.0" layoutY="39.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@GURUP-15.png" />
+         </image>
+      </ImageView>
+      <ProgressBar fx:id="progressBar" layoutY="697.0" prefHeight="20.0" prefWidth="1086.0" progress="0.0" />
+   </children>
+</AnchorPane>

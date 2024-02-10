@@ -1,0 +1,92 @@
+101-15.00-Izgara Tavuk-Ana Yemek
+102-12.50-Margarita Pizza-Ana Yemek
+103-8.00-Çorba Çeşitleri-Çorba
+104-5.50-Mevsim Salatası-Salata
+105-3.50-Ayran-İçecek
+106-6.00-Limonata-İçecek
+107-18.00-Deniz Mahsulleri Risotto-Ana Yemek
+108-10.00-Karnabahar Köftesi-Ara Sıcak
+109-4.50-Elmalı Turta-Tatlı
+110-9.00-Kumpir-Ara Sıcak
+111-14.00-Kuzu Kleftiko-Ana Yemek
+112-7.50-Mercimek Çorbası-Çorba
+113-4.00-Yeşil Salata-Salata
+114-3.00-Soda-İçecek
+115-5.50-Mojito-İçecek
+116-20.00-Balık Tava-Ana Yemek
+117-11.00-Sigara Böreği-Ara Sıcak
+118-5.00-Cheesecake-Tatlı
+119-10.50-Ali Nazik Kebabı-Ana Yemek
+120-6.50-Ezogelin Çorbası-Çorba
+121-4.50-Akdeniz Salatası-Salata
+122-3.50-Portakal Suyu-İçecek
+123-7.00-Mojito-İçecek
+124-16.00-Fırın Makarna-Ana Yemek
+125-9.50-Falafel-Ara Sıcak
+126-6.50-Profiterol-Tatlı
+127-12.00-Kuzu Güveç-Ana Yemek
+128-8.00-Domates Çorbası-Çorba
+129-5.00-Cezar Salata-Salata
+130-4.00-Limonlu Soda-İçecek
+131-7.50-Mojito-İçecek
+132-19.00-Karides Güveç-Ana Yemek
+133-13.00-Mantarlı Tost-Ara Sıcak
+134-5.50-Tiramisu-Tatlı
+135-11.50-Karnabahar Graten-Ana Yemek
+136-7.00-Mercimek Çorbası-Çorba
+137-4.50-Gavurdağı Salatası-Salata
+138-3.00-Ayran-İçecek
+139-6.00-Limonata-İçecek
+140-17.00-Dana Kavurma-Ana Yemek
+141-9.50-Patates Kızartması-Ara Sıcak
+142-4.50-İrmik Helvası-Tatlı
+143-10.00-Tavuk Şiş-Ana Yemek
+144-8.00-Ezogelin Çorbası-Çorba
+145-5.00-Ton Balıklı Salata-Salata
+146-3.50-Limonata-İçecek
+147-6.50-Mojito-İçecek
+148-18.00-Kuzu Tandır-Ana Yemek
+149-11.00-Sigara Böreği-Ara Sıcak
+150-5.50-Cheesecake-Tatlı
+151-10.50-Dana Şiş-Ana Yemek
+152-6.50-Tarator-Çorba
+153-4.00-Çoban Salatası-Salata
+154-3.00-Soda-İçecek
+155-5.50-Mojito-İçecek
+156-16.00-Balık Tava-Ana Yemek
+157-9.50-Falafel-Ara Sıcak
+158-6.50-Profiterol-Tatlı
+159-12.00-Kuzu Güveç-Ana Yemek
+160-8.00-Domates Çorbası-Çorba
+161-5.00-Cezar Salata-Salata
+162-4.00-Limonlu Soda-İçecek
+163-7.50-Mojito-İçecek
+164-19.00-Karides Güveç-Ana Yemek
+165-13.00-Mantarlı Tost-Ara Sıcak
+166-5.50-Tiramisu-Tatlı
+167-11.50-Karnabahar Graten-Ana Yemek
+168-7.00-Mercimek Çorbası-Çorba
+169-4.50-Gavurdağı Salatası-Salata
+170-3.00-Ayran-İçecek
+171-6.00-Limonata-İçecek
+172-17.00-Dana Kavurma-Ana Yemek
+173-9.50-Patates Kızartması-Ara Sıcak
+174-4.50-İrmik Helvası-Tatlı
+175-10.00-Tavuk Şiş-Ana Yemek
+176-8.00-Ezogelin Çorbası-Çorba
+177-5.00-Ton Balıklı Salata-Salata
+178-3.50-Limonata-İçecek
+179-6.50-Mojito-İçecek
+180-18.00-Kuzu Tandır-Ana Yemek
+181-11.00-Sigara Böreği-Ara Sıcak
+182-5.50-Cheesecake-Tatlı
+183-10.50-Dana Şiş-Ana Yemek
+184-6.50-Tarator-Çorba
+185-4.00-Çoban Salatası-Salata
+186-3.00-Soda-İçecek
+187-5.50-Mojito-İçecek
+188-16.00-Balık Tava-Ana Yemek
+189-9.50-Falafel-Ara Sıcak
+190-6.50-Profiterol-Tatlı
+191-12.00-Kuzu Güveç-Ana Yemek
+192-8.00-Domates Çor

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/SQL Server/12.2.0/sqlserver-win-auth.jar" dialect="TSQL" />
+    <file url="file://$USER_HOME$/Downloads/sqljdbc_12.4.2.0_enu/sqljdbc_12.4/enu/jars/mssql-jdbc-12.4.2.jre11.jar" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/food/Conn.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/food/Waiter.java" dialect="GenericSQL" />
+  </component>
+</project>
